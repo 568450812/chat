@@ -23,4 +23,8 @@ passwd = "123456"
 name = "chat"
 
 # 编写第一种方案
+<<<<<<< HEAD
 # hellow world
+=======
+#no
+>>>>>>> Tom_dev
